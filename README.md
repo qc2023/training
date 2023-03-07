@@ -8,8 +8,8 @@
 => Làm được việc
 
 ### Đối tượng học viên
-- Nhân viên thử việc mảng QC.
-- Thực tập sinh mảng QC.
+- Nhân viên thử việc - QC.
+- Thực tập sinh - QC.
 
 ### Bảng điểm danh tham gia training
 | Họ tên       | T2 S | T2 C | T3 S | T3 C | T4 S | T4 C | T5 S | T5 C | T6 S | T6 C |
