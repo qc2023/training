@@ -29,7 +29,7 @@
 
 ### Thời gian đào tạo
 - Thời lượng: 2 tháng (tổng cộng 32 buổi học).
-- Tổ chức 2 buổi học mỗi tuần, mỗi buổi 2 tiếng, vào lúc 15h00 chiều thứ 2 và thứ 6.
+- Tổ chức 2 buổi học mỗi tuần, mỗi buổi 2 tiếng, vào lúc 15h00 chiều thứ 2 và 09h00 sáng thứ 4.
 
 | Tuần    | Nội dung đào tạo                                                                             | Thời lượng | Người hướng dẫn |
 |---------|-----------------------------------------------------------------------------------------------|------------|----------------|
