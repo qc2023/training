@@ -1,4 +1,4 @@
-## Lộ trình đào tạo nhân viên thử việc mảng QC
+## Lộ trình đào tạo member - QC
 
 ### Mục tiêu đào tạo
 - Cung cấp kiến thức cơ bản về kiểm thử phần mềm và kỹ năng thực hiện các nhiệm vụ kiểm thử.
