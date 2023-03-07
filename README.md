@@ -63,6 +63,7 @@
 - Visual Studio Code: https://code.visualstudio.com/
 - MS SQLServer: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 - Python: https://www.python.org/downloads/
+- Anaconda: https://www.anaconda.com/
 - Java: https://www.oracle.com/java/technologies/javase-downloads.html
 - Chrome: https://www.google.com/chrome/
 
