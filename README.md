@@ -44,8 +44,8 @@
 
 ### Bài kiểm tra
 - Trong quá trình training cần có một số buổi test kiến thức, mức độ tiếp thu, mức độ vận dụng.
-- Cuối thời gian training cần có 1 bài kiểm tra để đánh giá kiến thức mỗi cá nhân.
 - Đối với các bạn thử việc cần nâng cao kỹ năng Tiếng Anh bản thân.
+- Cuối thời gian training cần có 1 bài kiểm tra để đánh giá kiến thức mỗi cá nhân.
 
 | Họ và tên     | Tuần 1-2 | Tuần 3-4 | Tuần 5-6 | Tuần 7-8 | Tuần 9-10 | Tuần 11-12 | Kết quả đánh giá |
 |---------------|----------|----------|----------|----------|-----------|------------|-----------------|
