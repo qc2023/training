@@ -24,7 +24,7 @@
 ### Phương pháp đào tạo
 - Kết hợp giữa lý thuyết và thực hành.
 - Tổ chức workshop để trao đổi kinh nghiệm và tăng cường kỹ năng thực hành.
-- Sử dụng tài liệu [ISTQB-CTFL_Syllabus_2018_v3.1.1.pdf](https://www.istqb.org/downloads/category/62-2018-documents.html) cho phần manual testing và [Python](https://www.python.org/downloads/) và [Robot Framework](https://robotframework.org/#documentation) cho phần automation testing.
+- Sử dụng tài liệu [ISTQB-CTFL_Syllabus_2018_v3.1.1.pdf](https://istqb-main-web-prod.s3.amazonaws.com/media/documents/ISTQB-CTFL_Syllabus_2018_v3.1.1.pdf) cho phần manual testing và [Python](https://www.python.org/downloads/) và [Robot Framework](https://robotframework.org/#documentation) cho phần automation testing.
 
 
 ### Thời gian đào tạo
