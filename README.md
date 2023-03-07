@@ -28,7 +28,7 @@
 
 
 ### Thời gian đào tạo
-- Thời lượng training cơ bản: 2 tháng (tổng cộng 16 buổi học).
+- Thời lượng training cơ bản: 2 tháng (tổng cộng 16 buổi học). => Cần pass qua mới tiếp tục đi tiếp.
 - Thời lượng training nâng cao: 1 tháng (tổng cộng 8 buổi học).
 - Tổ chức 2 buổi học mỗi tuần, mỗi buổi 2 tiếng, vào lúc 15h00 chiều thứ 2 và 09h00 sáng thứ 4.
 
