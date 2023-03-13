@@ -1,4 +1,4 @@
-# Manual Testing
+# Manual Testing (Part 1)
 ## Định nghĩa kiểm thử
 Kiểm thử là quá trình đánh giá chất lượng phần mềm hoặc hệ thống để xác định tính đúng đắn, tính hoạt động và tính đầy đủ của chúng. Kiểm thử giúp đảm bảo rằng phần mềm hoặc hệ thống đáp ứng được các yêu cầu và mong đợi của người sử dụng cuối.
 
