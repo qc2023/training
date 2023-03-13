@@ -40,8 +40,7 @@ Bên cạnh đó, việc áp dụng kiểm thử phần mềm giúp tối ưu h�
 - Kiểm thử chấp nhận (Acceptance testing): kiểm thử bởi người sử dụng hoặc khách hàng để đảm bảo rằng phần mềm hoặc hệ thống đáp ứng được các yêu cầu và mong đợi của họ.
 
 ## Quy trình kiểm thử
-### Giới thiệu các quy trình kiểm thử như V-Model, Agile Testing,...
-Có nhiều phương pháp và quy trình kiểm thử phần mềm khác nhau được áp dụng trong các dự án phần mềm khác nhau. Sau đây là hai quy trình kiểm thử phần mềm phổ biến:
+### Có nhiều phương pháp và quy trình kiểm thử phần mềm khác nhau được áp dụng trong các dự án phần mềm khác nhau. Sau đây là hai quy trình kiểm thử phần mềm phổ biến:
 
 - V-Model: là một quy trình kiểm thử phần mềm truyền thống và được sử dụng rộng rãi trong các dự án phần mềm lớn. V-Model xem kiểm thử phần mềm là một quá trình song song với các hoạt động phát triển phần mềm và tập trung vào việc đảm bảo tính đúng đắn của phần mềm.
 
