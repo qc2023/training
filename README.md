@@ -49,12 +49,12 @@
 
 | Họ và tên     | Tuần 1-2 | Tuần 3-4 | Tuần 5-6 | Tuần 7-8 | Tuần 9-10 | Tuần 11-12 | Kết quả đánh giá |
 |---------------|----------|----------|----------|----------|-----------|------------|-----------------|
-| Khanh Nguyen   | Chưa đạt | Chưa đạt | Chưa đạt | Chưa đạt | Chưa đạt  | Chưa đạt   | Chưa đạt        |
-| Nam Le         | Chưa đạt | Chưa đạt | Chưa đạt | Chưa đạt | Chưa đạt  | Chưa đạt   | Chưa đạt        |
-| Binh Nguyen    | Chưa đạt | Chưa đạt | Chưa đạt | Chưa đạt | Chưa đạt  | Chưa đạt   | Chưa đạt        |
-| Hieu Le        | Chưa đạt | Chưa đạt | Chưa đạt | Chưa đạt | Chưa đạt  | Chưa đạt   | Chưa đạt        |
-| Quang Nguyen   | Chưa đạt | Chưa đạt | Chưa đạt | Chưa đạt | Chưa đạt  | Chưa đạt   | Chưa đạt        |
-| Tri Trinh      | Chưa đạt | Chưa đạt | Chưa đạt | Chưa đạt | Chưa đạt  | Chưa đạt   | Chưa đạt        |
+| Khanh Nguyen   | Đạt | Đạt | Chưa đạt | Chưa đạt | Chưa đạt  | Chưa đạt   | Chưa đạt        |
+| Nam Le         | Đạt | Đạt | Chưa đạt | Chưa đạt | Chưa đạt  | Chưa đạt   | Chưa đạt        |
+| Binh Nguyen    | Đạt | Đạt | Chưa đạt | Chưa đạt | Chưa đạt  | Chưa đạt   | Chưa đạt        |
+| Hieu Le        | Đạt | Đạt | Chưa đạt | Chưa đạt | Chưa đạt  | Chưa đạt   | Chưa đạt        |
+| Quang Nguyen   | Đạt | Đạt | Chưa đạt | Chưa đạt | Chưa đạt  | Chưa đạt   | Chưa đạt        |
+| Tri Trinh      | Đạt | Đạt | Chưa đạt | Chưa đạt | Chưa đạt  | Chưa đạt   | Chưa đạt        |
 
 
 ### Công cụ, môi trường và ứng dụng phục vụ cho training
